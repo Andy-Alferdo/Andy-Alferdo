@@ -5,7 +5,7 @@
 
 <!-- TYPING PIXEL FONT SVG -->
 <a href="https://github.com/Andy-Alferdo">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2500&pause=800&color=FF4500&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=🔍+OSINT+Investigator+%40+Air+University;☁️+Oracle+OCI+Architect+%26+Networking+Pro;🛡️+IBM+%26+Google+Cybersecurity+Certified;🤖+AI-Powered+Threat+Detection+Researcher;🔴+Red+Team+Ops+%7C+CTIGA+%7C+CRTOM;🌐+Cisco+CyberOps+%7C+DevNet+%7C+EthHack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2500&pause=800&color=FF4500&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=50&lines=OSINT+Investigator+%40+Air+University;Oracle+OCI+Architect+%26+Networking+Pro;IBM+%26+Google+Cybersecurity+Certified;AI-Powered+Threat+Detection+Researcher;Red+Team+Ops+%7C+CTIGA+%7C+CRTOM;Cisco+CyberOps+%7C+DevNet+%7C+Eth+Hacker" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -161,12 +161,12 @@ status      : Actively building smarter, safer digital systems
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Andy-Alferdo&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0208&title_color=FF4500&text_color=FF6B35&icon_color=FF0000&ring_color=FF4500" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy-Alferdo&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d0208&title_color=FF4500&text_color=FF6B35" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Andy-Alferdo&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0208&title_color=FF4500&text_color=FF6B35&icon_color=FF0000" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy-Alferdo&theme=radical&hide_border=true&count_private=true&layout=compact&bg_color=0d0208&title_color=FF4500&text_color=FF6B35" height="165"/>
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Andy-Alferdo&theme=radical&hide_border=true&background=0d0208&ring=FF4500&fire=FF0000&currStreakLabel=FF6B35" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=Andy-Alferdo&theme=radical&hide_border=true&background=0d0208&ring=FF4500&fire=FF0000&currStreakLabel=FF6B35" width="49%"/>
 
 </div>
 
@@ -207,7 +207,7 @@ status      : Actively building smarter, safer digital systems
 <!-- ANIMATED FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:8B0000,100:0d0d0d&height=130&section=footer&fontSize=18&fontColor=FF6B35&animation=fadeIn" width="100%"/>
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Andy-Alferdo&icon=3&color=6)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Andy-Alferdo&color=FF4500&style=for-the-badge&label=PROFILE+VIEWS)
 
 *"The quieter you become, the more you are able to hear."* — Kali Linux
 
