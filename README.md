@@ -42,7 +42,7 @@
 name        : Sheikh Zubyan Wahid
 handle      : Andy-Alferdo / Sheikh-Saab
 university  : Air University, Kamra Campus
-degree      : BS Cyber Security (7th Semester)
+degree      : BS Cyber Security (Graduated Jun 2026)
 location    : Pakistan 🇵🇰
 focus       : OSINT · AI · Threat Intelligence · Red Team
 FYP         : "OSINT-Driven Social Media Investigation for Reddit"
@@ -64,6 +64,18 @@ status      : Actively building smarter, safer digital systems
 |:---:|:---|:---:|
 | ![OCI](https://img.shields.io/badge/Oracle-OCI%202025%20Architect%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white) | Oracle Cloud Infrastructure 2025 Certified Architect Associate | Sep 2025 |
 | ![OCI](https://img.shields.io/badge/Oracle-OCI%202025%20Networking%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white) | Oracle Cloud Infrastructure 2025 Certified Networking Professional | Oct 2025 *(valid till Oct 2027)* |
+
+<!-- MICROSOFT CERTS -->
+### 🔷 Microsoft
+| Badge | Certification | Date |
+|:---:|:---|:---:|
+| ![Microsoft](https://img.shields.io/badge/Microsoft-SQL%20AI%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) | Microsoft Certified: SQL AI Developer Associate | 2026 |
+
+<!-- AWS CERTS -->
+### 🟠 AWS
+| Badge | Certification | Date |
+|:---:|:---|:---:|
+| ![AWS](https://img.shields.io/badge/AWS-Academy%20Cloud%20Security%20Foundations-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white) | AWS Academy Cloud Security Foundations | 2026 |
 
 <!-- CISCO CERTS -->
 ### 🔵 Cisco Networking Academy
@@ -89,6 +101,12 @@ status      : Actively building smarter, safer digital systems
 |:---:|:---|:---:|
 | ![RTL](https://img.shields.io/badge/Red%20Team%20Leaders-CTIGA-FF0000?style=for-the-badge&logoColor=white) | Certified Threat Intelligence & Governance Analyst (CTIGA) | Jan 2026 |
 | ![RTL](https://img.shields.io/badge/Red%20Team%20Leaders-CRTOM-FF0000?style=for-the-badge&logoColor=white) | Certified Red Team Operations Management (CRTOM) | Mar 2026 |
+
+<!-- OTHER CERTS -->
+### 🛡️ Other Certifications
+| Badge | Certification | Date |
+|:---:|:---|:---:|
+| ![CyberExam](https://img.shields.io/badge/CyberExam-Information%20Security%20Manager-8B0000?style=for-the-badge&logoColor=white) | Information Security Manager — CyberExam Professional Certification | 2026 |
 
 </div>
 
